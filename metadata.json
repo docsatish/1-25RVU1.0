@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 1-25 RadRVU Pro - Radiology RVU Calculator Not working online",
+  "description": "Professional radiology RVU calculator with automated worklist analysis via Gemini AI, spreadsheet support, and financial forecasting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
